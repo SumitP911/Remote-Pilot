@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a CMakeFiles/common.dir/agent_core.cpp.o CMakeFiles/common.dir/cpu_collector.cpp.o CMakeFiles/common.dir/memory_collector.cpp.o
+/usr/bin/ranlib libcommon.a

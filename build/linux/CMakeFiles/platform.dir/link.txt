@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplatform.a CMakeFiles/platform.dir/linux_cpu_reader.cpp.o CMakeFiles/platform.dir/linux_memory_reader.cpp.o
+/usr/bin/ranlib libplatform.a
